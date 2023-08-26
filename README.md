@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hello, my name is Angel Acosta (He/Him). I recently completed Tech Elevator's Full Stack Developer boot camp where I reinforced skills in Java, SQL, Spring, Spring Boot, JSON, RESTful APIs, Javascript, Vue.js, CSS, Grid, and Flexbox.
+ Hello, my name is Angel Acosta (He/Him). I recently completed Tech Elevator's Full Stack Developer boot camp where I reinforced skills in Java, SQL, Spring, Spring Boot, JSON, RESTful APIs, Javascript, Vue.js, CSS, Grid, and Flexbox. While staying up to date with these technologies, I am currently teaching myself advanced data structures and algorithms as well as React.
 
  The best way to reach me is by email at angelofsd@gmail.com
