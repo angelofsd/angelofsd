@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hello, my name is Angel Acosta (He/Him), a Full Stack Web Developer.  My skills include Java, JUnit, PostgreSQL, Spring, Spring Boot, Spring MVC, RESTful APIs, Javascript, Vue.js, CSS, and HTML. While staying up to date with these technologies, I am currently teaching myself advanced data structures and algorithms as well as React.
+ Hello, my name is Angel Acosta (He/Him), a Full Stack Web Developer currently in Albuquerque, NM.  My skills include Java, JUnit, PostgreSQL, Spring, Spring Boot, Spring MVC, RESTful APIs, Javascript, Vue.js, CSS, and HTML. While staying up to date with these technologies, I am currently teaching myself advanced data structures and algorithms as well as React. 
+
+ I'm also building some small Front-End samples on Netlify. If you are interested, let me know so I can share the links!
 
  The best way to reach me is by email at angelofsd@gmail.com
